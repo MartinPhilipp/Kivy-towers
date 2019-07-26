@@ -1,8 +1,9 @@
 # Kivy-towers
 Game made with python3 and kivy
 
-#Help please
-see issue #2
+# Help please
+see issue: https://github.com/MartinPhilipp/Kivy-towers/issues/2
+
 
 ### install
 
